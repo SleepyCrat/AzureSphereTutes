@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AzureMotorTest", "AzureMotorTest\AzureMotorTest.vcxproj", "{2F3C00F5-A2DD-4D45-A3B5-C6C628615371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3C00F5-A2DD-4D45-A3B5-C6C628615371}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2F3C00F5-A2DD-4D45-A3B5-C6C628615371}.Debug|ARM.Build.0 = Debug|ARM
+		{2F3C00F5-A2DD-4D45-A3B5-C6C628615371}.Release|ARM.ActiveCfg = Release|ARM
+		{2F3C00F5-A2DD-4D45-A3B5-C6C628615371}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3EF2FC-AE91-4197-889E-E471BDDC1E0D}
+	EndGlobalSection
+EndGlobal

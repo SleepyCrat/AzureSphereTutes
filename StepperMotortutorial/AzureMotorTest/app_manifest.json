@@ -1,0 +1,14 @@
+{
+  "SchemaVersion": 1,
+  "Name": "AzureMotorTest",
+  "ComponentId": "9f089a19-d540-4b61-b413-693080f67687",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "Gpio": [ 9, 12, 31, 32, 33, 34 ],
+    "Uart": [],
+    "WifiConfig": false
+  },
+  "ApplicationType": "Default"
+}
